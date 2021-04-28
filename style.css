@@ -1,9 +1,18 @@
 body{
-    background-color: rgb(14, 126, 126);}
-h1{color: rgb(133, 72, 16);}
-.city {
-    background-color: rgb(31, 22, 151);
-    color: white;
-    border: 2px solid rgb(92, 14, 156);
-    margin: 20px;
-    padding: 20px;}
+background-image: url(photos/calut.jpg);
+
+background-repeat: no-repeat, repeat;
+height: 700px;
+background-size: cover;
+}
+h1{
+color: rgb(129, 28, 67);}
+
+.logo{
+    float: right;
+}
+
+
+
+
+
